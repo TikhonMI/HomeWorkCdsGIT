@@ -1,0 +1,14 @@
+D:\DemoC#2022\Pro01\bin\Debug\net7.0\Pro01.exe
+D:\DemoC#2022\Pro01\bin\Debug\net7.0\Pro01.deps.json
+D:\DemoC#2022\Pro01\bin\Debug\net7.0\Pro01.runtimeconfig.json
+D:\DemoC#2022\Pro01\bin\Debug\net7.0\Pro01.dll
+D:\DemoC#2022\Pro01\bin\Debug\net7.0\Pro01.pdb
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\Pro01.GeneratedMSBuildEditorConfig.editorconfig
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\Pro01.AssemblyInfoInputs.cache
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\Pro01.AssemblyInfo.cs
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\Pro01.csproj.CoreCompileInputs.cache
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\Pro01.dll
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\refint\Pro01.dll
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\Pro01.pdb
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\Pro01.genruntimeconfig.cache
+D:\DemoC#2022\Pro01\obj\Debug\net7.0\ref\Pro01.dll

@@ -1,0 +1,7 @@
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Greetings\bin\Debug\Greetings.exe.config
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Greetings\bin\Debug\Greetings.exe
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Greetings\bin\Debug\Greetings.pdb
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Greetings\obj\Debug\Greetings.exe
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Greetings\obj\Debug\Greetings.pdb

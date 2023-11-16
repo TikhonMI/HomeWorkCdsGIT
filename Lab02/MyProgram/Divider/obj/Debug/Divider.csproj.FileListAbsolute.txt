@@ -1,0 +1,7 @@
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Divider\bin\Debug\Divider.exe.config
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Divider\bin\Debug\Divider.exe
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Divider\bin\Debug\Divider.pdb
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Divider\obj\Debug\Divider.csproj.AssemblyReference.cache
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Divider\obj\Debug\Divider.csproj.CoreCompileInputs.cache
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Divider\obj\Debug\Divider.exe
+C:\Users\gvozdev_tikhon\Desktop\С#Программирование\Программирование_C#\Labs\Lab02\MyProgram\Divider\obj\Debug\Divider.pdb
