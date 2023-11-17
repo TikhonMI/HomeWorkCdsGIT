@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\KRLab01\S_Triang\bin\Debug\S_Triang.exe.config
+D:\HomeWorkCdsGIT\KRLab01\S_Triang\bin\Debug\S_Triang.exe
+D:\HomeWorkCdsGIT\KRLab01\S_Triang\bin\Debug\S_Triang.pdb
+D:\HomeWorkCdsGIT\KRLab01\S_Triang\obj\Debug\S_Triang.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\KRLab01\S_Triang\obj\Debug\S_Triang.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\KRLab01\S_Triang\obj\Debug\S_Triang.exe
+D:\HomeWorkCdsGIT\KRLab01\S_Triang\obj\Debug\S_Triang.pdb
