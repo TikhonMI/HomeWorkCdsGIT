@@ -1,0 +1,6 @@
+D:\Labs\Lab04\Starter\WhatDay1\bin\Debug\WhatDay1.exe
+D:\Labs\Lab04\Starter\WhatDay1\bin\Debug\WhatDay1.pdb
+D:\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.csproj.AssemblyReference.cache
+D:\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.csproj.CoreCompileInputs.cache
+D:\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.exe
+D:\Labs\Lab04\Starter\WhatDay1\obj\Debug\WhatDay1.pdb

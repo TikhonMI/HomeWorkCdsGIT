@@ -1,0 +1,7 @@
+D:\Labs\Lab04\TestWork\TargetShooting\bin\Debug\TargetShooting.exe.config
+D:\Labs\Lab04\TestWork\TargetShooting\bin\Debug\TargetShooting.exe
+D:\Labs\Lab04\TestWork\TargetShooting\bin\Debug\TargetShooting.pdb
+D:\Labs\Lab04\TestWork\TargetShooting\obj\Debug\TargetShooting.csproj.AssemblyReference.cache
+D:\Labs\Lab04\TestWork\TargetShooting\obj\Debug\TargetShooting.csproj.CoreCompileInputs.cache
+D:\Labs\Lab04\TestWork\TargetShooting\obj\Debug\TargetShooting.exe
+D:\Labs\Lab04\TestWork\TargetShooting\obj\Debug\TargetShooting.pdb
