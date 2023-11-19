@@ -1,0 +1,7 @@
+D:\Labs\Labs03\Starter\BankAccount\bin\Debug\BankAccount.exe.config
+D:\Labs\Labs03\Starter\BankAccount\bin\Debug\BankAccount.exe
+D:\Labs\Labs03\Starter\BankAccount\bin\Debug\BankAccount.pdb
+D:\Labs\Labs03\Starter\BankAccount\obj\Debug\BankAccount.csproj.AssemblyReference.cache
+D:\Labs\Labs03\Starter\BankAccount\obj\Debug\BankAccount.csproj.CoreCompileInputs.cache
+D:\Labs\Labs03\Starter\BankAccount\obj\Debug\BankAccount.exe
+D:\Labs\Labs03\Starter\BankAccount\obj\Debug\BankAccount.pdb

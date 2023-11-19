@@ -1,0 +1,7 @@
+D:\Labs\Labs03\Starter\StructType\bin\Debug\StructType.exe.config
+D:\Labs\Labs03\Starter\StructType\bin\Debug\StructType.exe
+D:\Labs\Labs03\Starter\StructType\bin\Debug\StructType.pdb
+D:\Labs\Labs03\Starter\StructType\obj\Debug\StructType.csproj.AssemblyReference.cache
+D:\Labs\Labs03\Starter\StructType\obj\Debug\StructType.csproj.CoreCompileInputs.cache
+D:\Labs\Labs03\Starter\StructType\obj\Debug\StructType.exe
+D:\Labs\Labs03\Starter\StructType\obj\Debug\StructType.pdb

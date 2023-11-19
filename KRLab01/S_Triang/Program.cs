@@ -4,8 +4,8 @@ namespace S_Triang
 {
     class Triangle
     {
-        double side = 0.0;
-        double area = 0.0;
+        private double side = 0.0;
+        private double area = 0.0;
 
         public Triangle(double perimeter) 
         {
@@ -15,8 +15,8 @@ namespace S_Triang
 
         public void parameterOutput()
         {
-            Console.WriteLine("Сторона   Площадь");
-            Console.WriteLine("{0:F2}     {1:F2}", side, area);
+            Console.WriteLine($@"Сторона   Площадь
+{side:F2}   {area:F2}");
         }
     }
     internal class Program

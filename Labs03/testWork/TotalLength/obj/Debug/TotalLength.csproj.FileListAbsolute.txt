@@ -1,0 +1,7 @@
+D:\Labs\Labs03\testWork\TotalLength\bin\Debug\TotalLength.exe.config
+D:\Labs\Labs03\testWork\TotalLength\bin\Debug\TotalLength.exe
+D:\Labs\Labs03\testWork\TotalLength\bin\Debug\TotalLength.pdb
+D:\Labs\Labs03\testWork\TotalLength\obj\Debug\TotalLength.csproj.AssemblyReference.cache
+D:\Labs\Labs03\testWork\TotalLength\obj\Debug\TotalLength.csproj.CoreCompileInputs.cache
+D:\Labs\Labs03\testWork\TotalLength\obj\Debug\TotalLength.exe
+D:\Labs\Labs03\testWork\TotalLength\obj\Debug\TotalLength.pdb
