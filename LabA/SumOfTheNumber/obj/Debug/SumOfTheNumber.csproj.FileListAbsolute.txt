@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\LabA\SumOfTheNumber\bin\Debug\SumOfTheNumber.exe.config
+D:\HomeWorkCdsGIT\LabA\SumOfTheNumber\bin\Debug\SumOfTheNumber.exe
+D:\HomeWorkCdsGIT\LabA\SumOfTheNumber\bin\Debug\SumOfTheNumber.pdb
+D:\HomeWorkCdsGIT\LabA\SumOfTheNumber\obj\Debug\SumOfTheNumber.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\LabA\SumOfTheNumber\obj\Debug\SumOfTheNumber.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\LabA\SumOfTheNumber\obj\Debug\SumOfTheNumber.exe
+D:\HomeWorkCdsGIT\LabA\SumOfTheNumber\obj\Debug\SumOfTheNumber.pdb

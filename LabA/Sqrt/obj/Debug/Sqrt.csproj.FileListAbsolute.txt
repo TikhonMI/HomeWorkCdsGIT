@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\LabA\Sqrt\bin\Debug\Sqrt.exe.config
+D:\HomeWorkCdsGIT\LabA\Sqrt\bin\Debug\Sqrt.exe
+D:\HomeWorkCdsGIT\LabA\Sqrt\bin\Debug\Sqrt.pdb
+D:\HomeWorkCdsGIT\LabA\Sqrt\obj\Debug\Sqrt.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\LabA\Sqrt\obj\Debug\Sqrt.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\LabA\Sqrt\obj\Debug\Sqrt.exe
+D:\HomeWorkCdsGIT\LabA\Sqrt\obj\Debug\Sqrt.pdb
