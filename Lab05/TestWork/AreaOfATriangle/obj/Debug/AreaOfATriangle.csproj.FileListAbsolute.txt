@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\Lab05\TestWork\AreaOfATriangle\bin\Debug\AreaOfATriangle.exe.config
+D:\HomeWorkCdsGIT\Lab05\TestWork\AreaOfATriangle\bin\Debug\AreaOfATriangle.exe
+D:\HomeWorkCdsGIT\Lab05\TestWork\AreaOfATriangle\bin\Debug\AreaOfATriangle.pdb
+D:\HomeWorkCdsGIT\Lab05\TestWork\AreaOfATriangle\obj\Debug\AreaOfATriangle.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\Lab05\TestWork\AreaOfATriangle\obj\Debug\AreaOfATriangle.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab05\TestWork\AreaOfATriangle\obj\Debug\AreaOfATriangle.exe
+D:\HomeWorkCdsGIT\Lab05\TestWork\AreaOfATriangle\obj\Debug\AreaOfATriangle.pdb
