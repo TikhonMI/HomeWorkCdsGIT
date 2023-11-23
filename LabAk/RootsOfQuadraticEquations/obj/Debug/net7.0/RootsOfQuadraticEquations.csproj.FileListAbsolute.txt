@@ -1,0 +1,14 @@
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\bin\Debug\net7.0\RootsOfQuadraticEquations.exe
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\bin\Debug\net7.0\RootsOfQuadraticEquations.deps.json
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\bin\Debug\net7.0\RootsOfQuadraticEquations.runtimeconfig.json
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\bin\Debug\net7.0\RootsOfQuadraticEquations.dll
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\bin\Debug\net7.0\RootsOfQuadraticEquations.pdb
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\RootsOfQuadraticEquations.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\RootsOfQuadraticEquations.AssemblyInfoInputs.cache
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\RootsOfQuadraticEquations.AssemblyInfo.cs
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\RootsOfQuadraticEquations.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\RootsOfQuadraticEquations.dll
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\refint\RootsOfQuadraticEquations.dll
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\RootsOfQuadraticEquations.pdb
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\RootsOfQuadraticEquations.genruntimeconfig.cache
+D:\HomeWorkCdsGIT\LabAk\RootsOfQuadraticEquations\obj\Debug\net7.0\ref\RootsOfQuadraticEquations.dll
