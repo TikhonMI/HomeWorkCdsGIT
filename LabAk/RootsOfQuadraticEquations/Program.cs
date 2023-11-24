@@ -1,16 +1,21 @@
-﻿namespace RootsOfQuadraticEquations
+﻿using System;
+
+namespace RootsOfQuadraticEquations
 {
     public class Roots
     {
-        public static (int i, double a, double b, double c, double x1, double x2) RootSearch(double[] mas)
+        public static (int i, double x1, double x2) RootSearch(double[] mas)
         {
-            double a = mas[0], b = mas[1], c = mas[2], x1 = mas[3], x2 = mas[4];
+            double a = mas[0], b = mas[1], c = mas[2];
+            double x1 = 0;
+            double x2 = 0;
+
             int i = 2;
-            if (a == 0) { return (i, a, b, c, x1, x2); }
+            if (a == 0) { return (i, x1, x2); }
             else if ((b * b - 4 * a * c) < 0)
             {
                 i = -1;
-                return (i, a, b, c, x1, x2);
+                return (i, x1, x2);
             }
             else
             {
@@ -20,12 +25,12 @@
                 if (x1 == x2)
                 {
                     i = 0;
-                    return (i, a, b, c, x1, x2);
+                    return (i, x1, x2);
                 }
                 else
                 {
                     i = 1;
-                    return (i, a, b, c, x1, x2);
+                    return (i, x1, x2);
                 }
             }
         }
@@ -54,16 +59,13 @@
         {
             double a = InputCoefficient('a');
             double b = InputCoefficient('b');
-            double c = InputCoefficient('c');
+            double c = InputCoefficient('c');                     
 
-            double x1 = 0;
-            double x2 = 0;
+            double[] n = { a, b, c };
 
-            double[] n = { a, b, c, x1, x2 };
+            var kor = Roots.RootSearch(n);
 
-            var k = Roots.RootSearch(n);
-
-            (int i, a, b, c, x1, x2) = k;
+            (int i, double x1, double x2) = kor;
 
             OutputRoot(i, a, b, c, x1, x2);
             
