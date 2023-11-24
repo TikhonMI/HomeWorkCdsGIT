@@ -11,11 +11,12 @@ namespace RootsOfQuadraticEquations
             double x2 = 0;
 
             int i = 2;
-            if (a == 0) { return (i, x1, x2); }
+
+            if (a == 0) { i = 2; }
             else if ((b * b - 4 * a * c) < 0)
             {
                 i = -1;
-                return (i, x1, x2);
+                
             }
             else
             {
@@ -25,14 +26,16 @@ namespace RootsOfQuadraticEquations
                 if (x1 == x2)
                 {
                     i = 0;
-                    return (i, x1, x2);
+                    
                 }
                 else
                 {
                     i = 1;
-                    return (i, x1, x2);
+
                 }
             }
+
+            return (i, x1, x2);
         }
 
     }
