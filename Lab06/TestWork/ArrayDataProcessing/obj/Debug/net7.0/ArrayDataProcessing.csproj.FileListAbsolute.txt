@@ -1,0 +1,14 @@
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\bin\Debug\net7.0\ArrayDataProcessing.exe
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\bin\Debug\net7.0\ArrayDataProcessing.deps.json
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\bin\Debug\net7.0\ArrayDataProcessing.runtimeconfig.json
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\bin\Debug\net7.0\ArrayDataProcessing.dll
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\bin\Debug\net7.0\ArrayDataProcessing.pdb
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ArrayDataProcessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ArrayDataProcessing.AssemblyInfoInputs.cache
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ArrayDataProcessing.AssemblyInfo.cs
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ArrayDataProcessing.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ArrayDataProcessing.dll
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\refint\ArrayDataProcessing.dll
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ArrayDataProcessing.pdb
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ArrayDataProcessing.genruntimeconfig.cache
+D:\HomeWorkCdsGIT\Lab06\TestWork\ArrayDataProcessing\obj\Debug\net7.0\ref\ArrayDataProcessing.dll

@@ -1,0 +1,5 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\SOLUTION\FILEDETAILS\bin\Debug\FileDetails.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\SOLUTION\FILEDETAILS\bin\Debug\FileDetails.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\SOLUTION\FILEDETAILS\obj\Debug\FileDetails.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\SOLUTION\FILEDETAILS\obj\Debug\FileDetails.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\SOLUTION\FILEDETAILS\obj\Debug\FileDetails.pdb

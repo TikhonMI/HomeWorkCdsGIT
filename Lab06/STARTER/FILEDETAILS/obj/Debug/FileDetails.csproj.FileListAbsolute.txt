@@ -1,0 +1,12 @@
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.pdb
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.csprojResolveAssemblyReference.cache
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.exe
+E:\Лим\for lean\for Studio_C#\Console_Course\MyConsoleC#\LABS\for_Student_C#\LABS\Labs_2016\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.pdb
+D:\HomeWorkCdsGIT\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.exe.config
+D:\HomeWorkCdsGIT\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.exe
+D:\HomeWorkCdsGIT\Lab06\STARTER\FILEDETAILS\bin\Debug\FileDetails.pdb
+D:\HomeWorkCdsGIT\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.exe
+D:\HomeWorkCdsGIT\Lab06\STARTER\FILEDETAILS\obj\Debug\FileDetails.pdb

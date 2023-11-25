@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\Lab06\STARTER\MATRIXMULTIPLY\bin\Debug\MatrixMultiply.exe.config
+D:\HomeWorkCdsGIT\Lab06\STARTER\MATRIXMULTIPLY\bin\Debug\MatrixMultiply.exe
+D:\HomeWorkCdsGIT\Lab06\STARTER\MATRIXMULTIPLY\bin\Debug\MatrixMultiply.pdb
+D:\HomeWorkCdsGIT\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.exe
+D:\HomeWorkCdsGIT\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.pdb
