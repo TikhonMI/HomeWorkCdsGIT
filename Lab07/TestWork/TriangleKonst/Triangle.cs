@@ -16,6 +16,16 @@ class Triangle
         Perimeter();
         STriangle();
     }
+    public Triangle(double a)
+    {
+        sideA = a;
+        sideB = a;
+        sideC = a;
+
+        Perimeter();
+        STriangle();
+    }
+
     public bool PresenceOfATriangle()
     {        
         bool i;
