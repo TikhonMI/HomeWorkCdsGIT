@@ -6,14 +6,21 @@ class Program
     static Triangle NewTriangle()
     {
         
-        double sideA = InputSide('a');
-        double sideB = InputSide('b');
-        double sideC = InputSide('c');
+        double sideA = InputSide("a");
+        double sideB = InputSide("b");
+        double sideC = InputSide("c");
         Triangle create = new Triangle(sideA, sideB, sideC);
         
         return create;
     }
-    static double InputSide(char i)
+    static Triangle NewTriangleOneSide()
+    {
+        double sideA = InputSide(", равностороннего");
+        Triangle create = new Triangle(sideA);
+
+        return create;
+    }
+    static double InputSide(string i)
     {        
         Console.Write($"Введите сторону треугольника {i}: ");
         double a = double.Parse(Console.ReadLine());
