@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe.config
+D:\HomeWorkCdsGIT\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\COPYFILEUPPER\bin\Debug\CopyFileUpper.pdb
+D:\HomeWorkCdsGIT\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\COPYFILEUPPER\obj\Debug\CopyFileUpper.pdb

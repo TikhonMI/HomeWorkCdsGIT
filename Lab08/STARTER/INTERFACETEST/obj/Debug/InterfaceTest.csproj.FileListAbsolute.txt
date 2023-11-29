@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\Lab08\STARTER\INTERFACETEST\bin\Debug\Utils.exe.config
+D:\HomeWorkCdsGIT\Lab08\STARTER\INTERFACETEST\bin\Debug\Utils.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\INTERFACETEST\bin\Debug\Utils.pdb
+D:\HomeWorkCdsGIT\Lab08\STARTER\INTERFACETEST\obj\Debug\InterfaceTest.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\INTERFACETEST\obj\Debug\InterfaceTest.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\INTERFACETEST\obj\Debug\Utils.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\INTERFACETEST\obj\Debug\Utils.pdb

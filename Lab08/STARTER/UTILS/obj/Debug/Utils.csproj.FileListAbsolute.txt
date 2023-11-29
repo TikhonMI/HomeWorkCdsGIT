@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\Lab08\STARTER\UTILS\bin\Debug\Utils.exe.config
+D:\HomeWorkCdsGIT\Lab08\STARTER\UTILS\bin\Debug\Utils.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\UTILS\bin\Debug\Utils.pdb
+D:\HomeWorkCdsGIT\Lab08\STARTER\UTILS\obj\Debug\Utils.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\UTILS\obj\Debug\Utils.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\UTILS\obj\Debug\Utils.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\UTILS\obj\Debug\Utils.pdb

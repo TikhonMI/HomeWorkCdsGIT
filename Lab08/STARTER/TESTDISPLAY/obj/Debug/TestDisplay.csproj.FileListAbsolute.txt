@@ -1,0 +1,7 @@
+D:\HomeWorkCdsGIT\Lab08\STARTER\TESTDISPLAY\bin\Debug\Utils.exe.config
+D:\HomeWorkCdsGIT\Lab08\STARTER\TESTDISPLAY\bin\Debug\Utils.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\TESTDISPLAY\bin\Debug\Utils.pdb
+D:\HomeWorkCdsGIT\Lab08\STARTER\TESTDISPLAY\obj\Debug\TestDisplay.csproj.AssemblyReference.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\TESTDISPLAY\obj\Debug\TestDisplay.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab08\STARTER\TESTDISPLAY\obj\Debug\Utils.exe
+D:\HomeWorkCdsGIT\Lab08\STARTER\TESTDISPLAY\obj\Debug\Utils.pdb
