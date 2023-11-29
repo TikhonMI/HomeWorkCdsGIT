@@ -1,14 +1,22 @@
 ﻿
-class Triangle
+class Triangle : IComparable
 {
-    static int numberOfTriangles = 0; //количество созданных треугольников
+    static int numberOfTriangles = 0; 
     private double sideA;
     private double sideB;
     private double sideC;
     private double perABC;
     private double sABC;
 
-    public Triangle (double a, double b, double c)
+    int IComparable.CompareTo(object obj)
+    {
+        Triangle it = (Triangle)obj;
+        if (this.sABC == it.sABC) { return 0; }
+        else if (this.sABC > it.sABC) { return 1; }
+        else { return -1; }
+    }
+
+    public Triangle(double a, double b, double c) //конструктор
     {
         sideA = a;
         sideB = b;
@@ -19,7 +27,7 @@ class Triangle
 
         numberOfTriangles++;
     }
-    public Triangle(double a)
+    public Triangle(double a) //конструктор перегрузка 
     {
         sideA = a;
         sideB = a;

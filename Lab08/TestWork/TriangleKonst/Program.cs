@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Globalization;
+using System.Collections;
 
 class Program
 {
@@ -69,7 +70,31 @@ class Program
         OutSTriangle(triangle2);
         OutSides(triangle2);
 
+        Triangle triangle3 = NewTriangleOneSide();
+
+        OutPresenceTriangle(triangle3);
+        OutPerimetr(triangle3);
+        OutSTriangle(triangle3);
+        OutSides(triangle3);
+
         totalTriangles();
+
+        var triangles = new List<Triangle>
+        { triangle1, triangle2, triangle3 };
+
+        triangles.Sort();
+
+        foreach (Triangle triangle in triangles)
+        {
+            Console.WriteLine($"Треугольник со сторонами {triangle.OutputSides()},с площадью: {triangle.STriangle()}");
+        }
+
+        //Console.WriteLine("Cортировка по площади:");
+        //for (int i = 0; i < Triangle.AllTriangle(); i++)
+        //{            
+        //    Console.WriteLine($"Треугольник со сторонами {triangles[i].OutputSides()},с площадью: {triangles[i].STriangle()}");
+        //}
+
     }
      
 }
