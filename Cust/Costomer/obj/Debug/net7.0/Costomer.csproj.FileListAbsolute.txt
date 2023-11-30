@@ -1,0 +1,14 @@
+D:\HomeWorkCdsGIT\Cust\Costomer\bin\Debug\net7.0\Costomer.exe
+D:\HomeWorkCdsGIT\Cust\Costomer\bin\Debug\net7.0\Costomer.deps.json
+D:\HomeWorkCdsGIT\Cust\Costomer\bin\Debug\net7.0\Costomer.runtimeconfig.json
+D:\HomeWorkCdsGIT\Cust\Costomer\bin\Debug\net7.0\Costomer.dll
+D:\HomeWorkCdsGIT\Cust\Costomer\bin\Debug\net7.0\Costomer.pdb
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\Costomer.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\Costomer.AssemblyInfoInputs.cache
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\Costomer.AssemblyInfo.cs
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\Costomer.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\Costomer.dll
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\refint\Costomer.dll
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\Costomer.pdb
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\Costomer.genruntimeconfig.cache
+D:\HomeWorkCdsGIT\Cust\Costomer\obj\Debug\net7.0\ref\Costomer.dll
