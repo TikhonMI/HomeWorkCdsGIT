@@ -1,0 +1,14 @@
+D:\HomeWorkCdsGIT\Lab10\MyClass\bin\Debug\net7.0\MyClass.exe
+D:\HomeWorkCdsGIT\Lab10\MyClass\bin\Debug\net7.0\MyClass.deps.json
+D:\HomeWorkCdsGIT\Lab10\MyClass\bin\Debug\net7.0\MyClass.runtimeconfig.json
+D:\HomeWorkCdsGIT\Lab10\MyClass\bin\Debug\net7.0\MyClass.dll
+D:\HomeWorkCdsGIT\Lab10\MyClass\bin\Debug\net7.0\MyClass.pdb
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\MyClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\MyClass.AssemblyInfoInputs.cache
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\MyClass.AssemblyInfo.cs
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\MyClass.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\MyClass.dll
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\refint\MyClass.dll
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\MyClass.pdb
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\MyClass.genruntimeconfig.cache
+D:\HomeWorkCdsGIT\Lab10\MyClass\obj\Debug\net7.0\ref\MyClass.dll
