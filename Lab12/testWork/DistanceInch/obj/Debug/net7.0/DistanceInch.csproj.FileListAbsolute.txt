@@ -1,0 +1,14 @@
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\bin\Debug\net7.0\DistanceInch.exe
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\bin\Debug\net7.0\DistanceInch.deps.json
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\bin\Debug\net7.0\DistanceInch.runtimeconfig.json
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\bin\Debug\net7.0\DistanceInch.dll
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\bin\Debug\net7.0\DistanceInch.pdb
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\DistanceInch.GeneratedMSBuildEditorConfig.editorconfig
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\DistanceInch.AssemblyInfoInputs.cache
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\DistanceInch.AssemblyInfo.cs
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\DistanceInch.csproj.CoreCompileInputs.cache
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\DistanceInch.dll
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\refint\DistanceInch.dll
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\DistanceInch.pdb
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\DistanceInch.genruntimeconfig.cache
+D:\HomeWorkCdsGIT\Lab12\testWork\DistanceInch\obj\Debug\net7.0\ref\DistanceInch.dll
